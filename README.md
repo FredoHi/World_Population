@@ -136,7 +136,7 @@ ORDER BY p1.Years;
 
 
 
-## Data analysis
+## Skills/Concepts Demonstrated
   These are the SQL functions/statement/Clause used in this query:
   - Aggregate functions
   - JOINS (Inner Join, Left Join, and Self Join)
@@ -163,3 +163,5 @@ ORDER BY p1.Years;
 
 ## Conclusion
 In conclusion, the findings highlight the significance of proactive measures to address the challenges posed by population growth. It is imperative for countries with burgeoning populations to prioritize family planning, healthcare, and education while encouraging sustainable development. Moreover, global cooperation is vital to collectively manage population growth and its associated impacts on resources and the environment. By implementing these recommendations, nations can navigate the complexities of growing populations while striving for a more balanced, equitable, and sustainable future.
+
+Thank you for your time😄
